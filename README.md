@@ -1,7 +1,7 @@
 # MD5 Hash Cracking Practice (John the Ripper)
 
 This repository is created for **ethical hacking learning and practice** purposes.  
-Here I practiced cracking **raw MD5 hashes** using **Hashcat** with the **RockYou wordlist** and rules.
+Here I practiced cracking **raw MD5 hashes** using **Hashcat** with the **RockYou wordlist** .
 
 ---
 
